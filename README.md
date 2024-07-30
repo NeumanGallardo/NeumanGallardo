@@ -80,7 +80,8 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
 
 ## 📂 Proyectos:
 <p align="left">
-  <a href="https://github.com/SPalacioAhun/PI-Driver">
+  <a href="https://github.com/neumangallardo/PI_drivers_F1
+">
     <img src="./assets/driver.png" alt="Proyecto driver" style="width: 200px; height: 150px; margin-right: 10px;" />
   </a>
   <!-- <a href="https://github.com/tu-usuario/tu-proyecto2">
