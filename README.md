@@ -28,7 +28,7 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
   <a href="https://www.linkedin.com/in/neumangallardo" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="neuman10327033@gmail.com" target="blank">
+  <a href="mailto:neuman10327033@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" height="30" width="30" />
   </a>
 </p>
