@@ -87,7 +87,7 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
 <p align="left">
   <a href="https://github.com/neumangallardo/PI_drivers_F1
 ">
-    <img src="./assets/driver.png" alt="Proyecto driver" style="width: 200px; height: 150px; margin-right: 10px;" />
+    <img src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/7TZCY4E3D5DB5GCTB7IZGFK66M.jpg" alt="Proyecto driver" style="width: 200px; height: 150px; margin-right: 10px;" />
   </a>
   <!-- <a href="https://github.com/tu-usuario/tu-proyecto2">
     <img src="https://via.placeholder.com/150" alt="Proyecto 2" style="width: 150px; height: auto; margin-right: 10px;" />
