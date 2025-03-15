@@ -38,6 +38,9 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
+      <a href="https://vite.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://es.vite.dev/logo.svg" alt="react" width="40" height="40"/> 
+  </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/> 
   </a> 
