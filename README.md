@@ -91,6 +91,11 @@ Estoy en búsqueda de oportunidades para seguir creciendo como desarrollador y c
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> 
   </a> 
+
+   <a href="https://www.microsoft.com/es-ar/sql-server" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png" alt="sqlserver" width="40" height="40"/> 
+  </a>
+  
 <!--   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>  -->
