@@ -11,21 +11,23 @@ Soy un **Full Stack Web Developer** apasionado por la tecnología y el desarroll
 
 ## 🛠 Tecnologías y habilidades principales  
 - **Lenguajes:** JavaScript (ES6+), C++.  
-- **Frontend:** Vite, React, Redux,  Tailwind CSS, HTML, CSS.  
-- **Backend:** Node.js, Express.  
+- **Front-End:** Vite, React, Redux,  HTML, CSS, Tailwind CSS.  
+- **Back-End:** Node.js, Express.  
 - **Bases de datos:** PostgreSQL, SQL Server, Sequelize ORM.  
 - **Control de versiones:** Git y GitHub.  
 - **Metodologías:** Agile/Scrum.  
 - **Seguridad:** Implementación de autenticación propia.  
 
 ## 🔹 Experiencia clave  
-✅ Desarrollo de **rutas y controladores en Express.js**.  
-✅ Configuración y administración de **bases de datos PostgreSQL y SQL Server**.  
-✅ Modelado y gestión de datos con **Sequelize ORM**.  
-✅ Optimización del rendimiento en el frontend con **Vite y Tailwind CSS**.  
-✅ Implementación de **autenticación y seguridad** en aplicaciones web.  
-✅ Desarrollo en **C++** para lógica y estructuras de datos.  
-✅ Creación de **componentes funcionales reutilizables en React** con **Hooks** (`useState`, `useEffect`, `useContext`).  
+- ✅ **Optimización del rendimiento** en el frontend con Vite y Tailwind CSS.  
+- ✅ **Creación de componentes funcionales reutilizables** en React con Hooks (`useState`, `useEffect`).  
+- ✅ **Implementación de autenticación y seguridad** en aplicaciones web.  
+- ✅ **Desarrollo de rutas y controladores** en Express.  
+- ✅ **Modelado y gestión de datos** con Sequelize ORM.  
+- ✅ **Configuración y administración de bases de datos** PostgreSQL y SQL Server.  
+- ✅ **Desarrollo en C++** para lógica y estructuras de datos.
+
+ 
 
 ## 👨‍💻 GitHub & Colaboración  
 Uso **Git y GitHub** como herramientas fundamentales para el desarrollo colaborativo, facilitando la gestión del código, la revisión de cambios y la integración en proyectos de código abierto. Estoy abierto a contribuir en iniciativas innovadoras y aprender de la comunidad.  
