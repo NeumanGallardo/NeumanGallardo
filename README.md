@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Erik Neuman</h1>
-<h2 align="center">Un apasionado desarrollador web full-stack</h2>
+<h1 align="center"> 🚀 Erik Neuman Gallardo Castillo</h1>
+<h2 align="center" color='blue'>Apasionado Full Stack Web Developer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neumangallardo&label=Profile%20views&color=0e75b6&style=flat" alt="neumangallardo" /> </p>
 
@@ -7,20 +7,32 @@
 
 ## 📖 Sobre mí
 
-Mi nombre es Erik Neuman soy desarrollador Full Stack tengo conocimientos en tecnologías como JavaScript, React, Redux, Node.js, Express, Sequelize y PostgreSQL. Mi experiencia incluye la implementación de rutas en Express.js, configuración de bases de datos con PostgreSQL y gestión de modelos de datos con Sequelize. Además, tengo experiencia en autenticacin propia.
+Soy un **Full Stack Web Developer** apasionado por la tecnología y el desarrollo de aplicaciones web escalables. Tengo experiencia en la creación de **APIs, bases de datos y aplicaciones dinámicas**, con un fuerte enfoque en la optimización y buenas prácticas.
 
-Soy un aprendiz constante y disfruto enfrentando nuevos desafíos que me permitan crecer tanto personal como profesionalmente. 🎯 Mi motivación principal es ver cómo mis ideas se transforman en soluciones reales que faciliten la vida de las personas.
+## 🛠 Tecnologías y habilidades principales  
+- **Lenguajes:** JavaScript (ES6+), C++.  
+- **Frontend:** Vite, React, Redux,  Tailwind CSS, HTML, CSS.  
+- **Backend:** Node.js, Express.  
+- **Bases de datos:** PostgreSQL, SQL Server, Sequelize ORM.  
+- **Control de versiones:** Git y GitHub.  
+- **Metodologías:** Agile/Scrum.  
+- **Seguridad:** Implementación de autenticación propia.  
 
-Estoy ansioso por comenzar mi carrera profesional y contribuir a proyectos innovadores en el campo del desarrollo web. Si estás interesado en colaborar en proyectos emocionantes o simplemente deseas conectar, ¡no dudes en contactarme!
+## 🔹 Experiencia clave  
+✅ Desarrollo de **rutas y controladores en Express.js**.  
+✅ Configuración y administración de **bases de datos PostgreSQL y SQL Server**.  
+✅ Modelado y gestión de datos con **Sequelize ORM**.  
+✅ Optimización del rendimiento en el frontend con **Vite y Tailwind CSS**.  
+✅ Implementación de **autenticación y seguridad** en aplicaciones web.  
+✅ Desarrollo en **C++** para lógica y estructuras de datos.  
+✅ Creación de **componentes funcionales reutilizables en React** con **Hooks** (`useState`, `useEffect`, `useContext`).  
 
-- **Front-end:** Tengo experiencia en el desarrollo de interfaces atractivas y funcionales utilizando **HTML**, **CSS**, y **JavaScript**. Utilizo **React** para construir aplicaciones web interactivas y dinámicas, y manejo el estado de las aplicaciones con **Redux**.
+## 👨‍💻 GitHub & Colaboración  
+Uso **Git y GitHub** como herramientas fundamentales para el desarrollo colaborativo, facilitando la gestión del código, la revisión de cambios y la integración en proyectos de código abierto. Estoy abierto a contribuir en iniciativas innovadoras y aprender de la comunidad.  
 
-- **Back-end:** Estoy familiarizado con la creación de servidores y APIs utilizando **Node.js** y **Express**. Tengo experiencia en la gestión de bases de datos con **PostgreSQL** y la integración de ORM como **Sequelize** para facilitar la interacción con la base de datos.
+## 📢 ¿Te gustaría trabajar juntos o intercambiar ideas?  
+Estoy en búsqueda de oportunidades para seguir creciendo como desarrollador y contribuir con soluciones tecnológicas eficientes. **¡Hablemos!** 🚀  
 
-- **Herramientas y Tecnologías:** Utilizo **Git** para el control de versiones, ya que me permite gestionar de manera eficiente los cambios en el código, colaborar con otros desarrolladores y mantener un historial claro de las modificaciones.
-Me apasiona aprender nuevas tecnologías y enfrentar desafíos en el desarrollo de aplicaciones. Disfruto trabajando en equipo y colaborando en proyectos que me permiten crecer como profesional. Mi objetivo es seguir mejorando mis habilidades y contribuir a la creación de soluciones innovadoras.
-
-Si estás interesado en colaborar en proyectos o simplemente quieres conectar, no dudes en contactarme.
 
 
 ## 🌐 Conéctate conmigo:
@@ -33,7 +45,7 @@ Si estás interesado en colaborar en proyectos o simplemente quieres conectar, n
   </a>
 </p>
 
-## 🛠️ Idiomas y herramientas:
+## 🛠️ Lenguajes y herramientas:
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
