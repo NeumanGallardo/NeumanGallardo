@@ -106,7 +106,7 @@ Estoy en búsqueda de oportunidades para seguir creciendo como desarrollador y c
 ## 📊 Estadísticas de GitHub:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neumangallardo&show_icons=true&locale=en&layout=compact" alt="spalacioahun" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neumangallardo&show_icons=true&locale=en" alt="neumangallardo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spalacioahun&" alt="spalacioahun" /></p>
+
 
 ## 📂 Proyectos:
 <p align="left">
